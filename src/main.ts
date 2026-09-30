@@ -5,6 +5,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <h1>Harmony Typesetting</h1>
     <p>Welcome to Harmony Typesetting! <br> 
     This is a typesetting app that uses lilypond to make lovely sheet music. <br> 
-    Highly customizable.</p>  
+    Highly customizable.</p> 
+    <img src="/test.svg"> 
   </main>
 `
